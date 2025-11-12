@@ -1,0 +1,62 @@
+
+using System.Collections.Generic;
+using System.IO;
+using System;
+
+
+namespace ConsoleApp6
+{
+    class TextAnalyzer
+    {
+        int TotalLines;
+        int TotalWords;
+        int TotalChars;
+        Dictionary<string, int> WordFrequency;
+
+        static void Main(string[] args)
+        {
+            TextAnalyzer analisador = new TextAnalyzer();    
+            analisador.ContarLinhas(@"C:\Users\E38353\source\repos\ContadordePalavras\ContadordePalavras\conteudo.txt");
+
+        }
+
+        public void ContarLinhas(string path)
+        {
+
+            using (var conteudo = new StreamReader(path))
+            {
+                int contador = 0;
+                while (conteudo.ReadLine() != null)
+                {                
+                    contador++;
+                }     
+            }
+         
+        }
+
+        public void ContarPalavras(string path)
+        {
+            using ()
+            {
+
+            }
+
+        }
+
+        public void ContarLetras(string path)
+        {
+
+        }
+
+        public void GetTopWords(string path)
+        {
+
+        }
+
+        public void SaveReport(string outputPath)
+        {
+
+        }
+    }
+
+}
