@@ -16,4 +16,12 @@ CREATE TABLE Tipo_Registro (
     ExtratoID INTEGER,
     FOREIGN KEY (TipoRegistroID) REFERENCES Tipo_Registro(TipoRegistroID)
     FOREIGN KEY (ExtratoID) REFERENCES Extrato(ExtratoID)
+
    );
+
+  
+   DROP TABLE Registro;
+   
+   
+   DROP TABLE Extrato;
+   DROP TABLE Tipo_Registro;
