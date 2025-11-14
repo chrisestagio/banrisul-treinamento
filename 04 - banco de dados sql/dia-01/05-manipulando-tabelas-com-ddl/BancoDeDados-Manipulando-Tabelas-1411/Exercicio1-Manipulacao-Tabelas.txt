@@ -1,0 +1,19 @@
+CREATE TABLE Extrato (
+  ExtratoID INTEGER PRIMARY KEY,
+  Numero_Conta INTEGER,
+  Nome_Titular TEXT
+  );
+  
+CREATE TABLE Tipo_Registro (
+    TipoRegistroID INTEGER PRIMARY KEY,
+    Tipo TEXT
+    );
+    
+ CREATE TABLE Registro (
+    RegistroID INTEGER PRIMARY KEY,
+    Valor DECIMAL,
+    TipoRegistroID INTEGER,
+    ExtratoID INTEGER,
+    FOREIGN KEY (TipoRegistroID) REFERENCES Tipo_Registro(TipoRegistroID)
+    FOREIGN KEY (ExtratoID) REFERENCES Extrato(ExtratoID)
+   );
