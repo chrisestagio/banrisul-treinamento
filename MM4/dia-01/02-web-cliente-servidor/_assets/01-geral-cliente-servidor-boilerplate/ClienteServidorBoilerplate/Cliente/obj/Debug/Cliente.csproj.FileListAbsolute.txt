@@ -1,0 +1,7 @@
+\\n712\Pxh\soft\temp\Treinamento MM 2025\05 - MM4\dia-01\02-web-cliente-servidor\_assets\01-geral-cliente-servidor-boilerplate\ClienteServidorBoilerplate\Cliente\bin\Debug\Cliente.exe.config
+\\n712\Pxh\soft\temp\Treinamento MM 2025\05 - MM4\dia-01\02-web-cliente-servidor\_assets\01-geral-cliente-servidor-boilerplate\ClienteServidorBoilerplate\Cliente\bin\Debug\Cliente.exe
+\\n712\Pxh\soft\temp\Treinamento MM 2025\05 - MM4\dia-01\02-web-cliente-servidor\_assets\01-geral-cliente-servidor-boilerplate\ClienteServidorBoilerplate\Cliente\bin\Debug\Cliente.pdb
+\\n712\Pxh\soft\temp\Treinamento MM 2025\05 - MM4\dia-01\02-web-cliente-servidor\_assets\01-geral-cliente-servidor-boilerplate\ClienteServidorBoilerplate\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+\\n712\Pxh\soft\temp\Treinamento MM 2025\05 - MM4\dia-01\02-web-cliente-servidor\_assets\01-geral-cliente-servidor-boilerplate\ClienteServidorBoilerplate\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+\\n712\Pxh\soft\temp\Treinamento MM 2025\05 - MM4\dia-01\02-web-cliente-servidor\_assets\01-geral-cliente-servidor-boilerplate\ClienteServidorBoilerplate\Cliente\obj\Debug\Cliente.exe
+\\n712\Pxh\soft\temp\Treinamento MM 2025\05 - MM4\dia-01\02-web-cliente-servidor\_assets\01-geral-cliente-servidor-boilerplate\ClienteServidorBoilerplate\Cliente\obj\Debug\Cliente.pdb
